@@ -47,13 +47,15 @@ Für diesen Zweck verwende ich VirtualBox um die VM mit dem Ubuntu Betriebssyste
 
 Die weiteren Schritte sind aktuell(Subject to Change):
   
-1. eine veraltete Version von Telnet(veralteter Remote Acess Service) zu installieren und dort iterativ die Sicherheitslücken zu brechen und aufzuweisen.
- 
-2. eine neue Version von SSL(Industriestandart für Remote Acess) zu installieren und dort iterativ die Sicherheitslücken zu brechen und aufzuweisen. 
+1. Simulieren der Werksteinstellungen eines neu aufgesetzten Gerätes(Account:admin Pw: admin) 
   
-3. Im Zuge dessen das zu brechende Passwort iterativ zu ändern, bis dieses einen branchenüblichen Sicherheitsstandart aufweist. 
+2. eine veraltete Version von Telnet(veralteter Remote Acess Service) zu installieren und dort iterativ die Sicherheitslücken zu brechen und aufzuweisen.
   
-4. Ausarbeitung der Social-Engineering Sicherheitslücken bei fehlendem Verständnis der fiktiven Mitarbeiter der Firma zur Prävention von Social Engineering
+3. eine neue Version von SSL(Industriestandart für Remote Acess) zu installieren und dort iterativ die Sicherheitslücken zu brechen und aufzuweisen. 
+  
+4. Im Zuge dessen das zu brechende Passwort iterativ zu ändern, bis dieses einen branchenüblichen Sicherheitsstandart aufweist. 
+  
+5. Ausarbeitung der Social-Engineering Sicherheitslücken bei fehlendem Verständnis der fiktiven Mitarbeiter der Firma zur Prävention von Social Engineering
 
 
  
