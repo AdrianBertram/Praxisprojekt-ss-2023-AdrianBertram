@@ -56,6 +56,8 @@ Die weiteren Schritte sind aktuell(Subject to Change):
 4. Im Zuge dessen das zu brechende Passwort iterativ zu ändern, bis dieses einen branchenüblichen Sicherheitsstandart aufweist. 
   
 5. Ausarbeitung der Social-Engineering Sicherheitslücken bei fehlendem Verständnis der fiktiven Mitarbeiter der Firma zur Prävention von Social Engineering
+  
+6. Auswertung von anderen Sicherheitsmaßnahmen: SSH Key Encryption und 2FA
 
 
  
@@ -78,14 +80,16 @@ Wenn Sie auf solche Links klicken und persönliche sensible Informationen eingeb
 ### 4.3 Brute Force
 ### 4.4 Word List
   
-## 5. Probleme
+## 5. SSH Key Encryption
+  
+## 6. 2FA
 
-## 6. Ziel
+## 7. Ziel
 <p> Das erste Ziel dieses Projekts ist es, die IT-Sicherheit einer VM zu verbessern, indem verschiedene Hack-Angriffe auf den Client-Login Service durchgeführt werden. 
 Dabei sollen Schwachstellen gefunden, beschrieben und behoben werden. Dieser Ablauf soll mehrmals wiederholt werden, um die Wirksamkeit der durchgeführten Maßnahmen zu überprüfen. <br>
 
 <p> Das zweite Ziel ist, eine branchen-gemäße Passwortsicherheitsrichtlinie zu formulieren, welche alle festgestellten Gefahren präventiv verhindern oder massiv erschweren soll. <br>
 
-## 7. Auswertung
-### 7.1 Daten
-### 7.2 Anaylse der Daten
+## 8. Auswertung
+### 8.1 Daten
+### 8.2 Anaylse der Daten
