@@ -85,20 +85,20 @@ Wenn Sie auf solche Links klicken und persönliche sensible Informationen eingeb
 ## 6. Hashing
 <p> Es ist wichtig zu beachten, dass die Sicherheit von Hash-Funktionen im Laufe der Zeit verändert werden kann, da neue Schwachstellen entdeckt werden. Daher ist es ratsam, sich über die aktuellsten Empfehlungen und bewährten Verfahren in Bezug auf Hash-Funktionen auf dem Laufenden zu halten. <br>
   
-# MD5 (Message Digest Algorithm 5): 
+### MD5 (Message Digest Algorithm 5): 
 <p> MD5 ist eine häufig verwendete Hash-Funktion, die eine 128-Bit-Prüfsumme für eine Eingabe erzeugt. Es ist jedoch wichtig zu beachten, dass MD5 als unsicher gilt und nicht für kryptografische Zwecke verwendet werden sollte. <br>
 
-# SHA-1 (Secure Hash Algorithm 1): 
+### SHA-1 (Secure Hash Algorithm 1): 
 <p> 
 SHA-1 ist eine Hash-Funktion, die eine 160-Bit-Prüfsumme erzeugt. Ähnlich wie MD5 gilt auch SHA-1 als unsicher und sollte nicht für kryptografische Anwendungen verwendet werden. <br>
 
-# SHA-256 (Secure Hash Algorithm 256-bit): 
+### SHA-256 (Secure Hash Algorithm 256-bit): 
 <p> SHA-256 ist Teil der SHA-2-Familie von Hash-Funktionen und erzeugt eine 256-Bit-Prüfsumme. Es wird weithin für kryptografische Anwendungen verwendet, wie zum Beispiel zur Sicherung von Passwörtern und zur Integritätsprüfung von Daten. <br>
 
-# SHA-3 (Secure Hash Algorithm 3): 
+### SHA-3 (Secure Hash Algorithm 3): 
 <p> SHA-3 ist eine weitere Familie von Hash-Funktionen und wurde als Alternative zu den SHA-2-Algorithmen entwickelt. Es bietet verschiedene Varianten mit unterschiedlichen Ausgabegrößen, einschließlich SHA-3-256 und SHA-3-512. <br>
 
-# bcrypt: 
+### bcrypt: 
 <p> bcrypt ist ein Passwort-Hashing-Algorithmus, der speziell für die sichere Speicherung von Passwörtern entwickelt wurde. Er verwendet eine Kombination aus Adaptivem Hashing und Salzen, um Passwörter zu schützen. bcrypt ist aufgrund seines langsamen Algorithmus gegen Brute-Force-Angriffe resistent. <br>
 
   
