@@ -82,14 +82,16 @@ Wenn Sie auf solche Links klicken und persönliche sensible Informationen eingeb
   
 ## 5. SSH Key Encryption
   
-## 6. 2FA
+## 6. Hashing
+  
+## 7. 2FA
 
-## 7. Ziel
+## 8. Ziel
 <p> Das erste Ziel dieses Projekts ist es, die IT-Sicherheit einer VM zu verbessern, indem verschiedene Hack-Angriffe auf den Client-Login Service durchgeführt werden. 
 Dabei sollen Schwachstellen gefunden, beschrieben und behoben werden. Dieser Ablauf soll mehrmals wiederholt werden, um die Wirksamkeit der durchgeführten Maßnahmen zu überprüfen. <br>
 
 <p> Das zweite Ziel ist, eine branchen-gemäße Passwortsicherheitsrichtlinie zu formulieren, welche alle festgestellten Gefahren präventiv verhindern oder massiv erschweren soll. <br>
 
-## 8. Auswertung
-### 8.1 Daten
-### 8.2 Anaylse der Daten
+## 9. Auswertung
+### 9.1 Daten
+### 9.2 Anaylse der Daten
