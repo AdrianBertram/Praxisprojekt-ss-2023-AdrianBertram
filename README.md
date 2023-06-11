@@ -83,6 +83,41 @@ Wenn Sie auf solche Links klicken und persönliche sensible Informationen eingeb
 ## 5. SSH Key Encryption
   
 ## 6. Hashing
+<p> Es ist wichtig zu beachten, dass die Sicherheit von Hash-Funktionen im Laufe der Zeit verändert werden kann, da neue Schwachstellen entdeckt werden. Daher ist es ratsam, sich über die aktuellsten Empfehlungen und bewährten Verfahren in Bezug auf Hash-Funktionen auf dem Laufenden zu halten. <br>
+  
+MD5 (Message Digest Algorithm 5): 
+<p> MD5 ist eine häufig verwendete Hash-Funktion, die eine 128-Bit-Prüfsumme für eine Eingabe erzeugt. Es ist jedoch wichtig zu beachten, dass MD5 als unsicher gilt und nicht für kryptografische Zwecke verwendet werden sollte. <br>
+
+SHA-1 (Secure Hash Algorithm 1): 
+<p> 
+SHA-1 ist eine Hash-Funktion, die eine 160-Bit-Prüfsumme erzeugt. Ähnlich wie MD5 gilt auch SHA-1 als unsicher und sollte nicht für kryptografische Anwendungen verwendet werden. <br>
+
+SHA-256 (Secure Hash Algorithm 256-bit): 
+<p> SHA-256 ist Teil der SHA-2-Familie von Hash-Funktionen und erzeugt eine 256-Bit-Prüfsumme. Es wird weithin für kryptografische Anwendungen verwendet, wie zum Beispiel zur Sicherung von Passwörtern und zur Integritätsprüfung von Daten. <br>
+
+SHA-3 (Secure Hash Algorithm 3): 
+<p> SHA-3 ist eine weitere Familie von Hash-Funktionen und wurde als Alternative zu den SHA-2-Algorithmen entwickelt. Es bietet verschiedene Varianten mit unterschiedlichen Ausgabegrößen, einschließlich SHA-3-256 und SHA-3-512. <br>
+
+bcrypt: 
+<p> bcrypt ist ein Passwort-Hashing-Algorithmus, der speziell für die sichere Speicherung von Passwörtern entwickelt wurde. Er verwendet eine Kombination aus Adaptivem Hashing und Salzen, um Passwörter zu schützen. bcrypt ist aufgrund seines langsamen Algorithmus gegen Brute-Force-Angriffe resistent. <br>
+
+  
+## Sicherheit: 
+<p> In einer zunehmend digitalen Welt ist die Sicherheit von Informationen und Daten von größter Bedeutung. Hashing-Methoden spielen eine wichtige Rolle bei der Sicherung von Passwörtern, der Integritätsprüfung von Daten und anderen kryptografischen Anwendungen. Durch das Verständnis der verschiedenen Hashing-Methoden können Entwickler sicherstellen, dass sie die sichersten Optionen wählen, um die Vertraulichkeit und Integrität der Daten zu gewährleisten. <br>
+
+## Schwachstellen erkennen: 
+<p> Indem man sich mit den verschiedenen Hashing-Methoden vertraut macht, wird man auch über mögliche Schwachstellen und Sicherheitsrisiken informiert. Wie bereits erwähnt, gelten MD5 und SHA-1 als unsicher und sollten vermieden werden. Durch Kenntnis der Schwachstellen kann man verhindern, dass veraltete und anfällige Hashing-Algorithmen in eigenen Anwendungen verwendet werden. <br>
+
+## Kompatibilität: 
+<p> In einigen Fällen ist es notwendig, mit bestehenden Systemen und Datenbanken zu arbeiten, die bereits bestimmte Hashing-Methoden verwenden. Indem man sich mit den verschiedenen Methoden vertraut macht, kann man die Kompatibilität gewährleisten und gegebenenfalls Konvertierungen oder Aktualisierungen durchführen, um die Sicherheit zu verbessern. <br>
+
+## Performance und Effizienz: 
+<p> Jede Hashing-Methode hat ihre eigenen Eigenschaften in Bezug auf Geschwindigkeit und Effizienz. Je nach den Anforderungen der Anwendung kann es wichtig sein, eine Hashing-Methode zu wählen, die die gewünschte Leistung bietet. Durch das Verständnis der Stärken und Schwächen der einzelnen Methoden kann man die richtige Wahl treffen und eine optimale Leistung erzielen. <br>
+
+## Aktuelle Entwicklungen: 
+<p> Die Welt der kryptografischen Algorithmen und Sicherheit entwickelt sich ständig weiter. Neue Hashing-Methoden werden entwickelt, um den steigenden Sicherheitsanforderungen gerecht zu werden. Durch das Auseinandersetzen mit den fünf genannten Methoden kann man ein grundlegendes Verständnis für Hashing-Verfahren entwickeln und sich auf dem Laufenden halten, um zukünftige Entwicklungen zu verstehen und entsprechend reagieren zu können. <br>
+  
+  
   
 ## 7. 2FA
 
@@ -90,7 +125,9 @@ Wenn Sie auf solche Links klicken und persönliche sensible Informationen eingeb
 <p> Das erste Ziel dieses Projekts ist es, die IT-Sicherheit einer VM zu verbessern, indem verschiedene Hack-Angriffe auf den Client-Login Service durchgeführt werden. 
 Dabei sollen Schwachstellen gefunden, beschrieben und behoben werden. Dieser Ablauf soll mehrmals wiederholt werden, um die Wirksamkeit der durchgeführten Maßnahmen zu überprüfen. <br>
 
-<p> Das zweite Ziel ist, eine branchen-gemäße Passwortsicherheitsrichtlinie zu formulieren, welche alle festgestellten Gefahren präventiv verhindern oder massiv erschweren soll. <br>
+<p> Das zweite Ziel ist das vertraut machen mit gängigen Sicherheitsmaßnahmen und dem anschließenden Vergleich von verschiedenen anwendbaren Methoden. <br>
+
+<p> Das dritte Ziel ist, eine branchen-gemäße Passwortsicherheitsrichtlinie zu formulieren, welche alle festgestellten Gefahren präventiv verhindern oder massiv erschweren soll. In dieser Richtlinie sollen außerdem nach einem ausführlichen Vergleich der vorher aufgeführten Sicherheitsmaßnahmen die für den jeweiligen Kontext die für den Gebrauch genannt werden, die dem Anwendungszweck und Kontext am besten entspricht. <br>
 
 ## 9. Auswertung
 ### 9.1 Daten
