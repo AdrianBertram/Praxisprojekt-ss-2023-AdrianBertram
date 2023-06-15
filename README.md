@@ -101,6 +101,10 @@ SHA-1 ist eine Hash-Funktion, die eine 160-Bit-Prüfsumme erzeugt. Ähnlich wie 
 ### bcrypt: 
 <p> bcrypt ist ein Passwort-Hashing-Algorithmus, der speziell für die sichere Speicherung von Passwörtern entwickelt wurde. Er verwendet eine Kombination aus Adaptivem Hashing und Salzen, um Passwörter zu schützen. bcrypt ist aufgrund seines langsamen Algorithmus gegen Brute-Force-Angriffe resistent. <br>
 
+### Argon1
+
+<p> Argon ist eine moderne und sichere Passwort-Hashing-Methode, die entwickelt wurde, um brute-force-Angriffe zu erschweren. Sie verwendet eine variable Anzahl von Speicher- und Zeitressourcen, um die Berechnung des Hashes zu verlangsamen, was es Angreifern erschwert, Passwörter zu knacken. Argon bietet eine hohe Widerstandsfähigkeit gegen gängige Angriffe wie Brute-Force, Wörterbuchangriffe und Rainbow-Tabellen. <br>
+
   
 ## Begründung: 
 <p> In einer zunehmend digitalen Welt ist die Sicherheit von Informationen und Daten von größter Bedeutung. Hashing-Methoden spielen eine wichtige Rolle bei der Sicherung von Passwörtern, der Integritätsprüfung von Daten und anderen kryptografischen Anwendungen. Durch das Verständnis der verschiedenen Hashing-Methoden können Entwickler sicherstellen, dass sie die sichersten Optionen wählen, um die Vertraulichkeit und Integrität der Daten zu gewährleisten. <br>
