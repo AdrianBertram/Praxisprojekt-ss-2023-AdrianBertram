@@ -3,5 +3,13 @@ allgemein:
 https://www.ssh.com/academy/ssh-keys#:~:text=A%20session%20key%20in%20SSH,algorithm%20to%20protect%20the%20data
 https://www.virtualbox.org/
 
+
+
+
+hashes:
+difference md5 and sha1:
+https://www.geeksforgeeks.org/difference-between-md5-and-sha1/
+
+
 hash-script codes:
 https://www.geeksforgeeks.org/md5-hash-python/
