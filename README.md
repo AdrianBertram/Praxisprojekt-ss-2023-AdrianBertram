@@ -125,6 +125,10 @@ Dabei sollen Schwachstellen gefunden, beschrieben und behoben werden. Dieser Abl
 
 <p> Das dritte Ziel ist, eine branchen-gemäße Passwortsicherheitsrichtlinie zu formulieren, welche alle festgestellten Gefahren präventiv verhindern oder massiv erschweren soll. In dieser Richtlinie sollen außerdem nach einem ausführlichen Vergleich der vorher aufgeführten Sicherheitsmaßnahmen die für den jeweiligen Kontext die für den Gebrauch genannt werden, die dem Anwendungszweck und Kontext am besten entspricht. <br>
 
-## 9. Auswertung
-### 9.1 Daten
-### 9.2 Anaylse der Daten
+## 9. User-Management
+### 9.1 User-Berechtigungen
+### 9.2 Datenschutz
+
+## 10. Auswertung
+### 10.1 Daten
+### 10.2 Anaylse der Daten
